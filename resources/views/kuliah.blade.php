@@ -26,9 +26,10 @@
             <div class="inner">
                 <center>
                     <h4 style="font-weight: bold">Pengalaman Kuliah</h4><br><br>
-                    <img src="dist/img/didin.png" alt="foto didin" style="width:200px"> <br><br>    
-                    <h4 style="font-weight: bold">IEMADUDDIN | 2141720055</h4>
-                    <p" >Hallo, aku didin dari bangkalan madura. Seorang anak muda yang ingin mencari ilmu di luar pulaunya sendiri.
+                    {{-- <img src="dist/img/endar.jpg" alt="foto endar" style="width:200px"> <br><br>  --}}
+                    <img src="dist/img/endar.jpg" class="img-circle elevation-2" style="width:200px"> <br><br>
+                    <h4 style="font-weight: bold">Muhammad Endar Darmawan | 2141720160</h4>
+                    <p" >Hallo, aku Endar dari Bandung, Jawab Barat. Seorang anak muda yang ingin mencari ilmu di luar daerahnya sendiri.
                         Beberapa hal yang menjadi alasanku untuk kuliah di Polinema ini, yakni dikarenakan Jurusannya dan juga karena
                         ada di Kota Malang. Kota ini juga merupakan kota yang banyak ingin disinggahi dengan berbagai macam wisata
                         dan lokasi yang indah tentunya. Kuliah di Polinema ini pada awalnya sedikit kaget dan beda dikarenakan dahulunya
